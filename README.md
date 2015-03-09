@@ -29,6 +29,16 @@ _______
 #### ACTUAL SCORE:
 https://www.ssllabs.com/ssltest/analyze.html?d=zingrr.com
 
+Current status:
+
+- [x] Android 4.0.4
+
+- [x] iOS 7.1
+
+- [ ] Java 7u25 <-- working on this currently   
+
+
+
 ![score](https://github.com/cyking/A-PLUS-SSL-Test/raw/master/screenshots/score_8_march_2015.png "score")
 
 ...
@@ -107,6 +117,16 @@ ssl_ciphers '!ECDHE-RSA-AES128-GCM-SHA256:!ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-R
 ______
 
 ## APACHE2
+
+Current status:
+
+- [ ] Android 4.0.4
+
+- [ ] iOS 7.1
+
+- [ ] Java 7u25
+
+
 
 #### APACHE2 requirements:
 
